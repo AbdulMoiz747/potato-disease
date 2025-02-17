@@ -70,12 +70,12 @@ Run the app (android/iOS)
 
 npm run android
 or
-
 npm run ios
+
 Creating public (signed APK)
 Creating the TF Lite Model
 Run Jupyter Notebook in Browser.
-jupyter notebook
+jupyter notebook:
 Open training/tf-lite-converter.ipynb in Jupyter Notebook.
 In cell #2, update the path to dataset.
 Run all the Cells one by one.
